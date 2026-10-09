@@ -6,13 +6,14 @@ Applied AI engineering from Alicante, Spain. Three engineers building reviewable
 
 ## Selected demonstrations
 
-- [Ledger Lens](https://quarkeon-website.pages.dev/en/projects/ledger-lens/): local document extraction and three-way matching with human review.
+- [Line Inspector](https://quarkeon-website.pages.dev/en/projects/line-inspector/): industrial anomaly inspection with real PCB images, held-out evaluation and human corrections.
+- [Perspective Match](https://quarkeon-website.pages.dev/en/projects/perspective-match/): keypoint matching, image alignment and localized visual differences.
+- [Scan Delta](https://quarkeon-website.pages.dev/en/projects/scan-delta/): 3D scan registration and added/removed geometry inspection.
+- [Scene Foundry](https://quarkeon-website.pages.dev/en/projects/scene-foundry/): real photographs, estimated cameras and navigable sparse reconstruction.
+- [Document Relay](https://quarkeon-website.pages.dev/en/projects/document-relay/): OCR, human approval and delivery to a separate persistent HTTP ledger.
 - [Knowledge Atlas](https://quarkeon-website.pages.dev/en/projects/knowledge-atlas/): document questions, source citations and explicit abstention.
-- [Surface Sentinel](https://quarkeon-website.pages.dev/en/projects/surface-sentinel/): local anomaly inspection and reviewable visual evidence.
-- [Conversation Lens](https://quarkeon-website.pages.dev/en/projects/conversation-lens/): English transcription and conversation review.
-- [Delivery Planner](https://quarkeon-website.pages.dev/en/projects/delivery-planner/): requirements, open questions and dependency-aware planning.
 
-[See all eleven demonstrations](https://quarkeon-website.pages.dev/en/projects/). Each case includes a video, a case-study PDF and recorded evaluation limits. These are independent demonstrations with fictional inputs, not customer outcomes or general production-accuracy claims.
+[See all sixteen demonstrations](https://quarkeon-website.pages.dev/en/projects/). Each case includes a video, a case-study PDF and recorded evaluation limits. Data sources are identified per case: public real-world datasets, licensed photographs or controlled fictional fixtures. These independent demonstrations report measured results within their stated scope.
 
 ## Working together
 
